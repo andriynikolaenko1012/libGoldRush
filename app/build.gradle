@@ -14,8 +14,8 @@ ext {
 
     libraryDescription = 'An example library to make your programming life easy'
 
-    siteUrl = 'https://github.com/andriynikolaenko1012/my-test-library'
-    gitUrl = 'https://github.com/andriynikolaenko1012/my-test-library.git'
+    siteUrl = 'https://github.com/andriynikolaenko1012/libGoldRush'
+    gitUrl = 'https://github.com/andriynikolaenko1012/libGoldRush.git'
 
     libraryVersion = '1.0.7'
 
